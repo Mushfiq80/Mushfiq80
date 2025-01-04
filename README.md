@@ -1,4 +1,4 @@
-## Hi there 👋 I'm Mohammad Mushfiq Us Saleheen
+## Hi there 👋
 
 <!--
 **Mushfiq80/Mushfiq80** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# 💫 About Me:
+# 💫 I am Mohammad Mushfiq Us Saleheen
 👨‍💻 **I'm currently working on**  <br>Some small projects using React.js for the frontend, Python Flask for the backend, and a beginner-friendly database.  <br><br>🤝 **I'm looking to collaborate on**  <br>Innovative full-stack development, AI projects (especially AI Agents), and DevOps initiatives.  <br><br>❓ **I'm looking for help with**  <br>Building scalable backend systems and advanced AI use cases.  <br><br>📚 **I'm currently learning**  <br>React.js, Flask, and exploring advanced cloud-based DevOps workflows.  <br><br>💬Full-stack development (React.js, Flask, and MERN stack), my research on fraud detection in AMI systems, or how I approach learning new technologies.<br><br>🎉 **Fun fact**  <br>I was a program organizer and host for ExCap, where I honed my public speaking and organizational skills. I’m also inspired by Jhankar Mahmud Bhai, whose guidance keeps me motivated!  <br>
 
 
